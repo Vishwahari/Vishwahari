@@ -8,11 +8,9 @@
 
 🎯 Always learning and growing in the tech world.
 
-
 ---
 
 <img align="right" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-
 
 ### 🛠️ Tech Stack
 
@@ -38,6 +36,7 @@
 ### 🌐 Social Presence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwahari-r/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishwahari/)
 
 ---
 
@@ -54,6 +53,17 @@
 
 ---
 
+
+
+### 🧠 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vishwahari?theme=light&font=Source+Code+Pro&ext=heatmap)](https://leetcode.com/u/vishwahari/)
+
+📌 [View My Full LeetCode Profile](https://leetcode.com/u/vishwahari/)
+
+
+---
+
 ### ⚡ Fun Fact
 
 > I believe in the power of curiosity — every problem is an opportunity to learn, and every line of code is a step toward innovation.
@@ -65,7 +75,3 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
-
-
-
