@@ -35,14 +35,15 @@
 
 ### 🌐 Social Presence
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwahari-r/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishwahari/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwahari-r/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishwahari/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vishwahari4164)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Vishwahari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwahari&show_icons=true&theme=radical&hide_border=true)
+![Vishwahari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwahari&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwahari&layout=compact&theme=radical&hide_border=true)
 
 ---
@@ -53,14 +54,11 @@
 
 ---
 
-
-
-### 🧠 LeetCode Progress
+### 🧠 LeetCode & HackerRank Progress
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vishwahari?theme=light&font=Source+Code+Pro&ext=heatmap)](https://leetcode.com/u/vishwahari/)
 
 📌 [View My Full LeetCode Profile](https://leetcode.com/u/vishwahari/)
-
 
 ---
 
@@ -73,5 +71,3 @@
 ### ✨ Quote to Code By
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
