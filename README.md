@@ -1,6 +1,8 @@
 ## 👋 Hi there! I’m Vishwahari R.
+
 ---
-🎓 AI & ML student at K. S. Rangasamy College of Technology
+
+🎓 AI & ML student at **K. S. Rangasamy College of Technology**
 
 🧠 Passionate about building smart systems to solve real-world problems.
 
@@ -8,9 +10,9 @@
 
 🎯 Always learning and growing in the tech world.
 
----
-
 <img align="right" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -43,14 +45,15 @@
 
 ### 📊 GitHub Stats
 
-![Vishwahari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwahari&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwahari&layout=compact&theme=radical&hide_border=true)
+![Vishwahari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwahari&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwahari&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vishwahari&theme=monokai&no-bg=true&no-frame=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vishwahari&theme=monokai&no-bg=true&no-frame=true&margin-w=4)
 
 ---
 
