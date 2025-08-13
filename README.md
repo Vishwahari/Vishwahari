@@ -10,7 +10,7 @@
 
 🎯 Always learning and growing in the tech world.
 
-<img align="right" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="right" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 ---
 
@@ -39,7 +39,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwahari-r/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishwahari/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vishwahari4164)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/vishwahari06)
 
 ---
 
@@ -57,11 +57,30 @@
 
 ---
 
-### 🧠 LeetCode & HackerRank Progress
+### 🧩 Competitive Programming Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vishwahari?theme=light&font=Source+Code+Pro&ext=heatmap)](https://leetcode.com/u/vishwahari/)
+🚀 **Showcasing my problem-solving journey on LeetCode and HackerRank!**
 
-📌 [View My Full LeetCode Profile](https://leetcode.com/u/vishwahari/)
+<div align="center">
+  <a href="https://leetcode.com/u/vishwahari/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/vishwahari06">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+</div>
+
+#### 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/vishwahari?theme=dark&font=Roboto&ext=heatmap)
+
+🔗 [Explore My LeetCode Profile](https://leetcode.com/u/vishwahari/)
+
+#### 🏅 HackerRank Achievements
+- **Profile**: [vishwahari06](https://www.hackerrank.com/profile/vishwahari06)  
+- Actively solving challenges in **Python**, **SQL**, and **Problem Solving**.  
+- Earned badges in **Problem Solving** and **Python** tracks.
+
+🔗 [Check Out My HackerRank Profile](https://www.hackerrank.com/profile/vishwahari06)
 
 ---
 
