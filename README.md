@@ -2,17 +2,18 @@
 
 ---
 
-🎓 AI & ML student at **K. S. Rangasamy College of Technology**
+🎓 AI & ML student at K. S. Rangasamy College of Technology
 
 🧠 Passionate about building smart systems to solve real-world problems.
 
-💻 Combining AI with software development to create innovative solutions.
+💻 Skilled in Java, Python, Flask, HTML, CSS, MySQL, PostgreSQL — combining AI with software development to create innovative solutions.
 
 🎯 Always learning and growing in the tech world.
 
-<img align="right" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 ---
+
+<img align="right" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 ### 🛠️ Tech Stack
 
