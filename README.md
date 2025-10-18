@@ -95,3 +95,9 @@
 ### ✨ Quote to Code By
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishwahari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
