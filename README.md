@@ -45,11 +45,15 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Vishwahari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwahari&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwahari&layout=compact&theme=radical&hide_border=true)
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Vishwahari&theme=dark&hide_border=false" height="180px" />
+</p>
+
+
 
 ---
 
