@@ -57,12 +57,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vishwahari&theme=monokai&no-bg=true&no-frame=true&margin-w=4)
-
----
-
 ### 🧩 Competitive Programming Progress
 
 🚀 **Showcasing my problem-solving journey on LeetCode and HackerRank!**
